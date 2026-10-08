@@ -1,0 +1,6 @@
+# Dependencias directas. requirements.txt fija tambien las transitivas.
+fastmcp==4.0.2
+httpx2==2.12.0
+mcp==2.1.1
+pydantic==2.13.5
+tzdata==2026.4
